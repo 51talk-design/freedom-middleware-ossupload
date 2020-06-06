@@ -1,0 +1,35 @@
+{
+  "name": "@51npm/freedom-middleware-ossupload",
+  "version": "1.0.0",
+  "author": "shangshanruoshui",
+  "description": "oss文件上传中间件",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "middleware",
+    "oss",
+    "publish"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/51talk-design/freedom-middleware-ossupload"
+  },
+  "maintainers": [
+    {
+      "name": "shangshanruoshui",
+      "email": "gxgongxueyuan123@163.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "shangshanruoshui",
+      "email": "gxgongxueyuan123@163.com"
+    }
+  ],
+  "dependencies": {
+    "ali-oss": "^6.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
