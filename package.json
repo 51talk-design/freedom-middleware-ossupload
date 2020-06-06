@@ -1,6 +1,6 @@
 {
   "name": "@51npm/freedom-middleware-ossupload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "shangshanruoshui",
   "description": "oss文件上传中间件",
   "main": "index.js",

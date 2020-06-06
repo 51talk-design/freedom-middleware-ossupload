@@ -14,12 +14,12 @@
 
   ```json
   {
-    region: 'oss上的配置',
-    accessKeyId: 'oss上的配置',
-    accessKeySecret: 'oss上的配置',
-    bucket: 'oss上的配置',
-    endpoint: 'oss上的配置',
-    path: "build" // 要上传文件的所在文件夹目录
+    "region": "oss上的配置",
+    "accessKeyId": "oss上的配置",
+    "accessKeySecret": "oss上的配置",
+    "bucket": "oss上的配置",
+    "endpoint": "oss上的配置",
+    "path": "build" // 要上传文件的所在文件夹目录
   }
   ```
   
@@ -30,7 +30,7 @@
   var opts = {
     region: 'oss上的配置',
     accessKeyId: 'oss上的配置',
-  accessKeySecret: 'oss上的配置',
+    accessKeySecret: 'oss上的配置',
     bucket: 'oss上的配置',
     endpoint: 'oss上的配置',
     path: "build" // 要上传文件的所在文件夹目录
